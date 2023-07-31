@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lucas Costa</title>
+        <link>https://Lucascs0304.github.io/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+        
+        
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Mon, 31 Jul 2023 12:03:53 -0300</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://Lucascs0304.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Predicting stock prices with earnings calls</title>
+                <link>https://Lucascs0304.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://Lucascs0304.github.io/posts/hello-world/</guid>
+                <pubDate>Mon, 31 Jul 2023 11:46:59 -0300</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;The study I developed as my masther thesis in partnership with Davis Thomas and Vicente Lisboa used&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
